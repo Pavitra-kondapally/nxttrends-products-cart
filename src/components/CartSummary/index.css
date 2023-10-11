@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.cart-summary-text {
+  color: #616e7c;
+}
+.checkout-btn {
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  background-color: #0b69ff;
+  color: #ffffff;
+}
+.cart-summary-container {
+  padding: 5px;
+  align-self: right;
+}
